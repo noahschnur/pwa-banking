@@ -1,5 +1,4 @@
-
-#PWA Banking App
+# PWA Banking App
 
 ## Description
 
