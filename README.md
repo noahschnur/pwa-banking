@@ -2,7 +2,7 @@
 
 ## Description
 
-A banking app that helps users keep track of their account balance. It hold info when the user is offline, and updates to the database when internet connection is reestablished.
+A banking app that helps users keep track of their account balance. It holds info when the user is offline, and updates to the database when internet connection is reestablished.
 
 ## License
 
